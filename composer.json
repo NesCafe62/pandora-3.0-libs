@@ -1,0 +1,25 @@
+{
+	"name": "pandora3/libs",
+	"description": "Pandora 3 libs",
+	"keywords": [
+		"pandora3", "libs"
+	],
+	"homepage": "http://pandora.u-238.ru",
+	"license": "LGPL-3.0",
+	"authors": [
+		{
+			"name": "Petr Gostin",
+			"email": "U.238@rambler.ru",
+			"homepage": "http://u-238.ru",
+			"role": "Developer"
+		}
+	],
+	"require": {
+		"php": ">=7.1"
+	},
+	"autoload": {
+		"psr-4": {
+			"pandora3\\libs\\": "/"
+		}
+	}
+}
