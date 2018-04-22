@@ -1,3 +1,48 @@
 [submodule "App"]
 	path = App
 	url = https://github.com/PandoraTeam/pandora3-lib-App
+[submodule "Controller"]
+	path = Controller
+	url = https://github.com/PandoraTeam/pandora3-lib-Controller
+[submodule "Database"]
+	path = Database
+	url = https://github.com/PandoraTeam/pandora3-lib-Database
+[submodule "Enum"]
+	path = Enum
+	url = https://github.com/PandoraTeam/pandora3-lib-Enum
+[submodule "Form"]
+	path = Form
+	url = https://github.com/PandoraTeam/pandora3-lib-Form
+[submodule "Http"]
+	path = Http
+	url = https://github.com/PandoraTeam/pandora3-lib-Http
+[submodule "Model"]
+	path = Model
+	url = https://github.com/PandoraTeam/pandora3-lib-Model
+[submodule "MVCPlugin"]
+	path = MVCPlugin
+	url = https://github.com/PandoraTeam/pandora3-lib-MVCPlugin
+[submodule "Plugin"]
+	path = Plugin
+	url = https://github.com/PandoraTeam/pandora3-lib-Plugin
+[submodule "QueryGenerator"]
+	path = QueryGenerator
+	url = https://github.com/PandoraTeam/pandora3-lib-QueryGenerator
+[submodule "RenderablePlugin"]
+	path = RenderablePlugin
+	url = https://github.com/PandoraTeam/pandora3-lib-RenderablePlugin
+[submodule "Resource"]
+	path = Resource
+	url = https://github.com/PandoraTeam/pandora3-lib-Resource
+[submodule "Router"]
+	path = Router
+	url = https://github.com/PandoraTeam/pandora3-lib-Router
+[submodule "TemplateRenderer"]
+	path = TemplateRenderer
+	url = https://github.com/PandoraTeam/pandora3-lib-TemplateRenderer
+[submodule "Time"]
+	path = Time
+	url = https://github.com/PandoraTeam/pandora3-lib-Time
+[submodule "Widget"]
+	path = Widget
+	url = https://github.com/PandoraTeam/pandora3-lib-Widget
