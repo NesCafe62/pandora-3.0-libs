@@ -25,9 +25,6 @@
 [submodule "Plugin"]
 	path = Plugin
 	url = https://github.com/PandoraTeam/pandora3-lib-Plugin
-[submodule "QueryGenerator"]
-	path = QueryGenerator
-	url = https://github.com/PandoraTeam/pandora3-lib-QueryGenerator
 [submodule "RenderablePlugin"]
 	path = RenderablePlugin
 	url = https://github.com/PandoraTeam/pandora3-lib-RenderablePlugin
