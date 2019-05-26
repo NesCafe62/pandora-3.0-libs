@@ -15,9 +15,7 @@
 	"require": {
 		"php": ">=7.1"
 	},
-	"autoload": {
-		"psr-4": {
-			"Pandora3\\Libs\\": "/"
-		}
+	"extra": {
+		"installer-name": "Libs-meta"
 	}
 }
