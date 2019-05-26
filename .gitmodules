@@ -9,4 +9,10 @@
 	url = https://github.com/PandoraTeam/pandora3-lib-Session
 [submodule "Application"]
 	path = Application
-	url = https://github.com/PandoraTeam/pandora3-Application
+	url = https://github.com/PandoraTeam/pandora3-lib-Application
+[submodule "Renderer"]
+	path = Renderer
+	url = https://github.com/PandoraTeam/pandora3-lib-Renderer.git
+[submodule "Widget"]
+	path = Widget
+	url = https://github.com/PandoraTeam/pandora3-lib-Widget.git
