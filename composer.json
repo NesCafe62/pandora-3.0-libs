@@ -13,6 +13,13 @@
 		}
 	],
 	"require": {
-		"php": ">=7.1"
+		"php": ">=7.1",
+
+		"pandora3/lib-application": "^1.0",
+		"pandora3/lib-database": "^1.0",
+		"pandora3/lib-renderer": "^1.0",
+		"pandora3/lib-session": "^1.0",
+		"pandora3/lib-time": "^1.0",
+		"pandora3/lib-widget": "^1.0"
 	}
 }
