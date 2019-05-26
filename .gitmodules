@@ -7,3 +7,6 @@
 [submodule "Session"]
 	path = Session
 	url = https://github.com/PandoraTeam/pandora3-lib-Session
+[submodule "Application"]
+	path = Application
+	url = https://github.com/PandoraTeam/pandora3-Application
