@@ -16,3 +16,6 @@
 [submodule "Widget"]
 	path = Widget
 	url = https://github.com/PandoraTeam/pandora3-lib-Widget.git
+[submodule "Cookie"]
+	path = Cookie
+	url = https://github.com/PandoraTeam/pandora3-lib-Cookie.git
