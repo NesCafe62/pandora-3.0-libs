@@ -1,21 +1,28 @@
 [submodule "Database"]
 	path = Database
 	url = https://github.com/PandoraTeam/pandora3-lib-Database
+	update = merge
 [submodule "Time"]
 	path = Time
 	url = https://github.com/PandoraTeam/pandora3-lib-Time
+	update = merge
 [submodule "Session"]
 	path = Session
 	url = https://github.com/PandoraTeam/pandora3-lib-Session
+	update = merge
 [submodule "Application"]
 	path = Application
 	url = https://github.com/PandoraTeam/pandora3-lib-Application
+	update = merge
 [submodule "Renderer"]
 	path = Renderer
 	url = https://github.com/PandoraTeam/pandora3-lib-Renderer.git
+	update = merge
 [submodule "Widget"]
 	path = Widget
 	url = https://github.com/PandoraTeam/pandora3-lib-Widget.git
+	update = merge
 [submodule "Cookie"]
 	path = Cookie
 	url = https://github.com/PandoraTeam/pandora3-lib-Cookie.git
+	update = merge
